@@ -374,7 +374,6 @@ padding: 30px 0 30px 0;
 
 
  .icons:focus, .icons:hover{
-  background-color: var(--active-bg-color);
   fill: var(--primary-bg-color)
  }
 
