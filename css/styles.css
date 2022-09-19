@@ -140,7 +140,9 @@ img{
 
 }
 
-.header-link:hover, .header-link:focus{
+.header-link:hover, .header-link:focus,
+.link:hover, .link:focus,
+.current:hover,.current:focus{
   color:var(--accent-text-color);
   fill:var(--accent-text-color)
 }
